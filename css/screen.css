@@ -38,6 +38,7 @@ input {
    fieldset
   {
     text-align: center;
+    background-color: lightgray;
   }
   
   .submit {
