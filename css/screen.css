@@ -19,7 +19,7 @@ footer {
   margin-top: 1em;
 }
 
-#wrap input[type="email"] {
+.wrap input[type="email"] {
   border-color: transparent;
   background-color: #808080;
 }
