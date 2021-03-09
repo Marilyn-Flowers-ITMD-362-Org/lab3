@@ -19,11 +19,9 @@ footer {
   margin-top: 1em;
 }
 
-.wrap input[type="email"] {
-  border-color: transparent;
-  background-color: #808080;
+h1{
+  background-color: pink;
 }
-
 .fontsize {
   font-size: 1.3em;
 }
